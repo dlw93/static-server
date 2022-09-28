@@ -1,0 +1,704 @@
+{
+    "objectDtoList": [
+        {
+            "id": 40301,
+            "name": "PAC1500 Station_6",
+            "path": "PAC1500 Station_6",
+            "className": "class de.psi.pjf.scada.model.hierarchy.template.TemplateInstance",
+            "description": ""
+        },
+        {
+            "id": 40401,
+            "name": "PAC4200 Station_10",
+            "path": "PAC4200 Station_10",
+            "className": "class de.psi.pjf.scada.model.hierarchy.template.TemplateInstance",
+            "description": ""
+        },
+        {
+            "id": 41001,
+            "name": "PAC1500 Station_7",
+            "path": "PAC1500 Station_7",
+            "className": "class de.psi.pjf.scada.model.hierarchy.template.TemplateInstance",
+            "description": ""
+        },
+        {
+            "id": 41101,
+            "name": "PAC1500 Station_8",
+            "path": "PAC1500 Station_8",
+            "className": "class de.psi.pjf.scada.model.hierarchy.template.TemplateInstance",
+            "description": ""
+        },
+        {
+            "id": 41201,
+            "name": "PAC1500 Station_9",
+            "path": "PAC1500 Station_9",
+            "className": "class de.psi.pjf.scada.model.hierarchy.template.TemplateInstance",
+            "description": ""
+        },
+        {
+            "id": 41301,
+            "name": "PAC1500 Station_8",
+            "path": "PAC1500 Station_8",
+            "className": "class de.psi.pjf.scada.model.hierarchy.template.TemplateInstance",
+            "description": ""
+        },
+        {
+            "id": 41701,
+            "name": "PAC1500 Station_7",
+            "path": "PAC1500 Station_7",
+            "className": "class de.psi.pjf.scada.model.hierarchy.template.TemplateInstance",
+            "description": ""
+        },
+        {
+            "id": 41801,
+            "name": "PAC1500 Station_9",
+            "path": "PAC1500 Station_9",
+            "className": "class de.psi.pjf.scada.model.hierarchy.template.TemplateInstance",
+            "description": ""
+        },
+        {
+            "id": 42101,
+            "name": "PAC1500 Station_6",
+            "path": "PAC1500 Station_6",
+            "className": "class de.psi.pjf.scada.model.hierarchy.template.TemplateInstance",
+            "description": ""
+        },
+        {
+            "id": 42201,
+            "name": "PAC4200 Station_10",
+            "path": "PAC4200 Station_10",
+            "className": "class de.psi.pjf.scada.model.hierarchy.template.TemplateInstance",
+            "description": ""
+        },
+        {
+            "id": 42301,
+            "name": "PAC1500 Station_8",
+            "path": "PAC1500 Station_8",
+            "className": "class de.psi.pjf.scada.model.hierarchy.template.TemplateInstance",
+            "description": ""
+        },
+        {
+            "id": 42701,
+            "name": "PAC1500 Station_7",
+            "path": "PAC1500 Station_7",
+            "className": "class de.psi.pjf.scada.model.hierarchy.template.TemplateInstance",
+            "description": ""
+        },
+        {
+            "id": 42801,
+            "name": "PAC1500 Station_9",
+            "path": "PAC1500 Station_9",
+            "className": "class de.psi.pjf.scada.model.hierarchy.template.TemplateInstance",
+            "description": ""
+        },
+        {
+            "id": 43101,
+            "name": "PAC1500 Station_6",
+            "path": "PAC1500 Station_6",
+            "className": "class de.psi.pjf.scada.model.hierarchy.template.TemplateInstance",
+            "description": ""
+        },
+        {
+            "id": 43201,
+            "name": "PAC4200 Station_10",
+            "path": "PAC4200 Station_10",
+            "className": "class de.psi.pjf.scada.model.hierarchy.template.TemplateInstance",
+            "description": ""
+        },
+        {
+            "id": 43301,
+            "name": "PAC1500 Station_8",
+            "path": "PAC1500 Station_8",
+            "className": "class de.psi.pjf.scada.model.hierarchy.template.TemplateInstance",
+            "description": ""
+        },
+        {
+            "id": 43701,
+            "name": "PAC1500 Station_7",
+            "path": "PAC1500 Station_7",
+            "className": "class de.psi.pjf.scada.model.hierarchy.template.TemplateInstance",
+            "description": ""
+        },
+        {
+            "id": 43801,
+            "name": "PAC1500 Station_9",
+            "path": "PAC1500 Station_9",
+            "className": "class de.psi.pjf.scada.model.hierarchy.template.TemplateInstance",
+            "description": ""
+        },
+        {
+            "id": 44101,
+            "name": "PAC1500 Station_6",
+            "path": "PAC1500 Station_6",
+            "className": "class de.psi.pjf.scada.model.hierarchy.template.TemplateInstance",
+            "description": ""
+        },
+        {
+            "id": 44201,
+            "name": "PAC4200 Station_10",
+            "path": "PAC4200 Station_10",
+            "className": "class de.psi.pjf.scada.model.hierarchy.template.TemplateInstance",
+            "description": ""
+        },
+        {
+            "id": 44301,
+            "name": "PAC1500 Station_8",
+            "path": "PAC1500 Station_8",
+            "className": "class de.psi.pjf.scada.model.hierarchy.template.TemplateInstance",
+            "description": ""
+        },
+        {
+            "id": 44701,
+            "name": "PAC1500 Station_7",
+            "path": "PAC1500 Station_7",
+            "className": "class de.psi.pjf.scada.model.hierarchy.template.TemplateInstance",
+            "description": ""
+        },
+        {
+            "id": 46201,
+            "name": "PAC1500 Station_9",
+            "path": "PAC1500 Station_9",
+            "className": "class de.psi.pjf.scada.model.hierarchy.template.TemplateInstance",
+            "description": ""
+        },
+        {
+            "id": 46501,
+            "name": "PAC1500 Station_6",
+            "path": "PAC1500 Station_6",
+            "className": "class de.psi.pjf.scada.model.hierarchy.template.TemplateInstance",
+            "description": ""
+        },
+        {
+            "id": 46601,
+            "name": "PAC4200 Station_10",
+            "path": "PAC4200 Station_10",
+            "className": "class de.psi.pjf.scada.model.hierarchy.template.TemplateInstance",
+            "description": ""
+        },
+        {
+            "id": 48201,
+            "name": "REC615 Station_1",
+            "path": "REC615 Station_1",
+            "className": "class de.psi.pjf.scada.model.hierarchy.template.TemplateInstance",
+            "description": ""
+        },
+        {
+            "id": 48301,
+            "name": "REC615 Station_2",
+            "path": "REC615 Station_2",
+            "className": "class de.psi.pjf.scada.model.hierarchy.template.TemplateInstance",
+            "description": ""
+        },
+        {
+            "id": 48401,
+            "name": "REC615 Station_3",
+            "path": "REC615 Station_3",
+            "className": "class de.psi.pjf.scada.model.hierarchy.template.TemplateInstance",
+            "description": ""
+        },
+        {
+            "id": 48501,
+            "name": "REC615 Station_4",
+            "path": "REC615 Station_4",
+            "className": "class de.psi.pjf.scada.model.hierarchy.template.TemplateInstance",
+            "description": ""
+        },
+        {
+            "id": 48601,
+            "name": "REC615 Station_5",
+            "path": "REC615 Station_5",
+            "className": "class de.psi.pjf.scada.model.hierarchy.template.TemplateInstance",
+            "description": ""
+        },
+        {
+            "id": 48701,
+            "name": "PAC4200 Station_6",
+            "path": "PAC4200 Station_6",
+            "className": "class de.psi.pjf.scada.model.hierarchy.template.TemplateInstance",
+            "description": ""
+        },
+        {
+            "id": 48801,
+            "name": "PAC4200 Station_7",
+            "path": "PAC4200 Station_7",
+            "className": "class de.psi.pjf.scada.model.hierarchy.template.TemplateInstance",
+            "description": ""
+        },
+        {
+            "id": 48901,
+            "name": "PAC4200 Station_8",
+            "path": "PAC4200 Station_8",
+            "className": "class de.psi.pjf.scada.model.hierarchy.template.TemplateInstance",
+            "description": ""
+        },
+        {
+            "id": 49001,
+            "name": "PAC4200 Station_9",
+            "path": "PAC4200 Station_9",
+            "className": "class de.psi.pjf.scada.model.hierarchy.template.TemplateInstance",
+            "description": ""
+        },
+        {
+            "id": 49101,
+            "name": "PAC4200 Station_10",
+            "path": "PAC4200 Station_10",
+            "className": "class de.psi.pjf.scada.model.hierarchy.template.TemplateInstance",
+            "description": ""
+        },
+        {
+            "id": 49201,
+            "name": "PAC1500 Station_1",
+            "path": "PAC1500 Station_1",
+            "className": "class de.psi.pjf.scada.model.hierarchy.template.TemplateInstance",
+            "description": ""
+        },
+        {
+            "id": 49301,
+            "name": "PAC1500 Station_2",
+            "path": "PAC1500 Station_2",
+            "className": "class de.psi.pjf.scada.model.hierarchy.template.TemplateInstance",
+            "description": ""
+        },
+        {
+            "id": 49401,
+            "name": "PAC1500 Station_3",
+            "path": "PAC1500 Station_3",
+            "className": "class de.psi.pjf.scada.model.hierarchy.template.TemplateInstance",
+            "description": ""
+        },
+        {
+            "id": 49501,
+            "name": "PAC1500 Station_4",
+            "path": "PAC1500 Station_4",
+            "className": "class de.psi.pjf.scada.model.hierarchy.template.TemplateInstance",
+            "description": ""
+        },
+        {
+            "id": 49601,
+            "name": "PAC1500 Station_5",
+            "path": "PAC1500 Station_5",
+            "className": "class de.psi.pjf.scada.model.hierarchy.template.TemplateInstance",
+            "description": ""
+        },
+        {
+            "id": 167501,
+            "name": "SNMP datapoints",
+            "path": "SNMP datapoints",
+            "className": "class de.psi.pjf.scada.model.hierarchy.Area",
+            "description": ""
+        },
+        {
+            "id": 167601,
+            "name": "system",
+            "path": "system",
+            "className": "class de.psi.pjf.scada.model.hierarchy.Area",
+            "description": ""
+        },
+        {
+            "id": 168401,
+            "name": "Lower Saxony",
+            "path": "Lower Saxony",
+            "className": "class de.psi.pjf.scada.model.hierarchy.Area",
+            "description": ""
+        },
+        {
+            "id": 168801,
+            "name": "Saarland",
+            "path": "Saarland",
+            "className": "class de.psi.pjf.scada.model.hierarchy.Area",
+            "description": ""
+        },
+        {
+            "id": 168901,
+            "name": "Saxony-Anhalt",
+            "path": "Saxony-Anhalt",
+            "className": "class de.psi.pjf.scada.model.hierarchy.Area",
+            "description": ""
+        },
+        {
+            "id": 169001,
+            "name": "Schleswig-Holstein",
+            "path": "Schleswig-Holstein",
+            "className": "class de.psi.pjf.scada.model.hierarchy.Area",
+            "description": ""
+        },
+        {
+            "id": 169201,
+            "name": "Saxony",
+            "path": "Saxony",
+            "className": "class de.psi.pjf.scada.model.hierarchy.Area",
+            "description": ""
+        },
+        {
+            "id": 169301,
+            "name": "statistics",
+            "path": "statistics",
+            "className": "class de.psi.pjf.scada.model.hierarchy.Area",
+            "description": ""
+        },
+        {
+            "id": 169401,
+            "name": "session_groups",
+            "path": "session_groups",
+            "className": "class de.psi.pjf.scada.model.hierarchy.Area",
+            "description": ""
+        },
+        {
+            "id": 169501,
+            "name": "scada",
+            "path": "scada",
+            "className": "class de.psi.pjf.scada.model.hierarchy.Area",
+            "description": ""
+        },
+        {
+            "id": 170601,
+            "name": "session_groups",
+            "path": "session_groups",
+            "className": "class de.psi.pjf.scada.model.hierarchy.Area",
+            "description": ""
+        },
+        {
+            "id": 170801,
+            "name": "IEC session group",
+            "path": "IEC session group",
+            "className": "class de.psi.pjf.scada.model.hierarchy.Area",
+            "description": ""
+        },
+        {
+            "id": 170901,
+            "name": "SNMP sample session",
+            "path": "SNMP sample session",
+            "className": "class de.psi.pjf.scada.model.hierarchy.Area",
+            "description": ""
+        },
+        {
+            "id": 171101,
+            "name": "SNMP",
+            "path": "SNMP",
+            "className": "class de.psi.pjf.scada.model.hierarchy.Area",
+            "description": ""
+        },
+        {
+            "id": 171201,
+            "name": "OPC UA session group",
+            "path": "OPC UA session group",
+            "className": "class de.psi.pjf.scada.model.hierarchy.Area",
+            "description": ""
+        },
+        {
+            "id": 172101,
+            "name": "IEC session group",
+            "path": "IEC session group",
+            "className": "class de.psi.pjf.scada.model.hierarchy.Area",
+            "description": ""
+        },
+        {
+            "id": 172301,
+            "name": "SNMP sample session",
+            "path": "SNMP sample session",
+            "className": "class de.psi.pjf.scada.model.hierarchy.Area",
+            "description": ""
+        },
+        {
+            "id": 172701,
+            "name": "SNMP",
+            "path": "SNMP",
+            "className": "class de.psi.pjf.scada.model.hierarchy.Area",
+            "description": ""
+        },
+        {
+            "id": 172901,
+            "name": "OPC UA session group",
+            "path": "OPC UA session group",
+            "className": "class de.psi.pjf.scada.model.hierarchy.Area",
+            "description": ""
+        },
+        {
+            "id": 173301,
+            "name": "PT Station_2",
+            "path": "PT Station_2",
+            "className": "class de.psi.pjf.scada.model.hierarchy.Area",
+            "description": ""
+        },
+        {
+            "id": 173801,
+            "name": "PT Station_1",
+            "path": "PT Station_1",
+            "className": "class de.psi.pjf.scada.model.hierarchy.Area",
+            "description": ""
+        },
+        {
+            "id": 173901,
+            "name": "PT Station_3",
+            "path": "PT Station_3",
+            "className": "class de.psi.pjf.scada.model.hierarchy.Area",
+            "description": ""
+        },
+        {
+            "id": 174401,
+            "name": "SNMP session",
+            "path": "SNMP session",
+            "className": "class de.psi.pjf.scada.model.hierarchy.Area",
+            "description": ""
+        },
+        {
+            "id": 175001,
+            "name": "session 1",
+            "path": "session 1",
+            "className": "class de.psi.pjf.scada.model.hierarchy.Area",
+            "description": ""
+        },
+        {
+            "id": 175601,
+            "name": "SNMP session",
+            "path": "SNMP session",
+            "className": "class de.psi.pjf.scada.model.hierarchy.Area",
+            "description": ""
+        },
+        {
+            "id": 175801,
+            "name": "session 1",
+            "path": "session 1",
+            "className": "class de.psi.pjf.scada.model.hierarchy.Area",
+            "description": ""
+        },
+        {
+            "id": 54001,
+            "name": "Ps-Seq-A",
+            "path": "Ps-Seq-A",
+            "className": "class de.psi.pjf.scada.model.hierarchy.MeteredValue",
+            "description": "Positive-phase-sequence current"
+        },
+        {
+            "id": 54101,
+            "name": "S",
+            "path": "S",
+            "className": "class de.psi.pjf.scada.model.hierarchy.MeteredValue",
+            "description": "Total apparent power"
+        },
+        {
+            "id": 54901,
+            "name": "S",
+            "path": "S",
+            "className": "class de.psi.pjf.scada.model.hierarchy.MeteredValue",
+            "description": "Total apparent power"
+        },
+        {
+            "id": 56301,
+            "name": "S",
+            "path": "S",
+            "className": "class de.psi.pjf.scada.model.hierarchy.MeteredValue",
+            "description": "Total apparent power"
+        },
+        {
+            "id": 57401,
+            "name": "S",
+            "path": "S",
+            "className": "class de.psi.pjf.scada.model.hierarchy.MeteredValue",
+            "description": "Total apparent power"
+        },
+        {
+            "id": 58001,
+            "name": "Zro-Seq-A",
+            "path": "Zro-Seq-A",
+            "className": "class de.psi.pjf.scada.model.hierarchy.MeteredValue",
+            "description": "Zero-phase-sequence current"
+        },
+        {
+            "id": 58801,
+            "name": "Nq-Seq-A",
+            "path": "Nq-Seq-A",
+            "className": "class de.psi.pjf.scada.model.hierarchy.MeteredValue",
+            "description": "Negative-phase-sequence current"
+        },
+        {
+            "id": 60601,
+            "name": "S",
+            "path": "S",
+            "className": "class de.psi.pjf.scada.model.hierarchy.MeteredValue",
+            "description": "Total apparent power"
+        },
+        {
+            "id": 71001,
+            "name": "S",
+            "path": "S",
+            "className": "class de.psi.pjf.scada.model.hierarchy.MeteredValue",
+            "description": "Total apparent power"
+        },
+        {
+            "id": 72201,
+            "name": "Ps-Seq-A",
+            "path": "Ps-Seq-A",
+            "className": "class de.psi.pjf.scada.model.hierarchy.MeteredValue",
+            "description": "Positive-phase-sequence current"
+        },
+        {
+            "id": 73401,
+            "name": "Nq-Seq-A",
+            "path": "Nq-Seq-A",
+            "className": "class de.psi.pjf.scada.model.hierarchy.MeteredValue",
+            "description": "Negative-phase-sequence current"
+        },
+        {
+            "id": 77201,
+            "name": "S",
+            "path": "S",
+            "className": "class de.psi.pjf.scada.model.hierarchy.MeteredValue",
+            "description": "Total apparent power"
+        },
+        {
+            "id": 78301,
+            "name": "S",
+            "path": "S",
+            "className": "class de.psi.pjf.scada.model.hierarchy.MeteredValue",
+            "description": "Total apparent power"
+        },
+        {
+            "id": 81201,
+            "name": "S",
+            "path": "S",
+            "className": "class de.psi.pjf.scada.model.hierarchy.MeteredValue",
+            "description": "Total apparent power"
+        },
+        {
+            "id": 83601,
+            "name": "Zro-Seq-A",
+            "path": "Zro-Seq-A",
+            "className": "class de.psi.pjf.scada.model.hierarchy.MeteredValue",
+            "description": "Zero-phase-sequence current"
+        },
+        {
+            "id": 95801,
+            "name": "Zro-Seq-A",
+            "path": "Zro-Seq-A",
+            "className": "class de.psi.pjf.scada.model.hierarchy.MeteredValue",
+            "description": "Zero-phase-sequence current"
+        },
+        {
+            "id": 107601,
+            "name": "S",
+            "path": "S",
+            "className": "class de.psi.pjf.scada.model.hierarchy.MeteredValue",
+            "description": "Total apparent power"
+        },
+        {
+            "id": 108801,
+            "name": "S",
+            "path": "S",
+            "className": "class de.psi.pjf.scada.model.hierarchy.MeteredValue",
+            "description": "Total apparent power"
+        },
+        {
+            "id": 109501,
+            "name": "S",
+            "path": "S",
+            "className": "class de.psi.pjf.scada.model.hierarchy.MeteredValue",
+            "description": "Total apparent power"
+        },
+        {
+            "id": 178201,
+            "name": "set_disabled",
+            "path": "set_disabled",
+            "className": "class de.psi.pjf.scada.model.hierarchy.SetPoint",
+            "description": ""
+        },
+        {
+            "id": 117101,
+            "name": "S",
+            "path": "S",
+            "className": "class de.psi.pjf.scada.model.hierarchy.MeteredValue",
+            "description": "Total apparent power"
+        },
+        {
+            "id": 120801,
+            "name": "S",
+            "path": "S",
+            "className": "class de.psi.pjf.scada.model.hierarchy.MeteredValue",
+            "description": "Total apparent power"
+        },
+        {
+            "id": 122601,
+            "name": "Zro-Seq-A",
+            "path": "Zro-Seq-A",
+            "className": "class de.psi.pjf.scada.model.hierarchy.MeteredValue",
+            "description": "Zero-phase-sequence current"
+        },
+        {
+            "id": 129401,
+            "name": "S",
+            "path": "S",
+            "className": "class de.psi.pjf.scada.model.hierarchy.MeteredValue",
+            "description": "Total apparent power"
+        },
+        {
+            "id": 132901,
+            "name": "Ps-Seq-A",
+            "path": "Ps-Seq-A",
+            "className": "class de.psi.pjf.scada.model.hierarchy.MeteredValue",
+            "description": "Positive-phase-sequence current"
+        },
+        {
+            "id": 138101,
+            "name": "S",
+            "path": "S",
+            "className": "class de.psi.pjf.scada.model.hierarchy.MeteredValue",
+            "description": "Total apparent power"
+        },
+        {
+            "id": 138201,
+            "name": "Nq-Seq-A",
+            "path": "Nq-Seq-A",
+            "className": "class de.psi.pjf.scada.model.hierarchy.MeteredValue",
+            "description": "Negative-phase-sequence current"
+        },
+        {
+            "id": 142401,
+            "name": "S",
+            "path": "S",
+            "className": "class de.psi.pjf.scada.model.hierarchy.MeteredValue",
+            "description": "Total apparent power"
+        },
+        {
+            "id": 177501,
+            "name": "SET_BOOLEAN",
+            "path": "SET_BOOLEAN",
+            "className": "class de.psi.pjf.scada.model.hierarchy.SetPoint",
+            "description": ""
+        },
+        {
+            "id": 146301,
+            "name": "Ps-Seq-A",
+            "path": "Ps-Seq-A",
+            "className": "class de.psi.pjf.scada.model.hierarchy.MeteredValue",
+            "description": "Positive-phase-sequence current"
+        },
+        {
+            "id": 147701,
+            "name": "S",
+            "path": "S",
+            "className": "class de.psi.pjf.scada.model.hierarchy.MeteredValue",
+            "description": "Total apparent power"
+        },
+        {
+            "id": 148501,
+            "name": "S",
+            "path": "S",
+            "className": "class de.psi.pjf.scada.model.hierarchy.MeteredValue",
+            "description": "Total apparent power"
+        },
+        {
+            "id": 149301,
+            "name": "Nq-Seq-A",
+            "path": "Nq-Seq-A",
+            "className": "class de.psi.pjf.scada.model.hierarchy.MeteredValue",
+            "description": "Negative-phase-sequence current"
+        },
+        {
+            "id": 152101,
+            "name": "S",
+            "path": "S",
+            "className": "class de.psi.pjf.scada.model.hierarchy.MeteredValue",
+            "description": "Total apparent power"
+        }
+    ]
+}
